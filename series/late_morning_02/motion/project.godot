@@ -1,0 +1,16 @@
+config_version=5
+
+[application]
+config/name="Late Morning — Episode 2 Live Preview"
+run/main_scene="res://reel.tscn"
+
+[display]
+window/size/viewport_width=540
+window/size/viewport_height=960
+window/size/window_width_override=432
+window/size/window_height_override=768
+window/stretch/mode="canvas_items"
+
+[rendering]
+renderer/rendering_method="gl_compatibility"
+lights_and_shadows/directional_shadow/size=2048

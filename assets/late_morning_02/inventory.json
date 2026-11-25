@@ -1,0 +1,302 @@
+[
+  {
+    "name": "borrowed_split_level",
+    "category": "houses",
+    "asset": "houses/borrowed_split_level.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "cedar_roadside_bungalow",
+    "category": "houses",
+    "asset": "houses/cedar_roadside_bungalow.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "fathers_pickup",
+    "category": "vehicle",
+    "asset": "vehicle/fathers_pickup.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "pickup_passenger_door",
+    "category": "vehicle",
+    "asset": "vehicle/pickup_passenger_door.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "pickup_low_fuel_gauge",
+    "category": "vehicle",
+    "asset": "vehicle/pickup_low_fuel_gauge.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "two_lane_highway_24m",
+    "category": "highway",
+    "asset": "highway/two_lane_highway_24m.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "highway_guardrail_8m",
+    "category": "highway",
+    "asset": "highway/highway_guardrail_8m.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "overhead_west_route_sign",
+    "category": "highway",
+    "asset": "highway/overhead_west_route_sign.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "county_road_signpost",
+    "category": "highway",
+    "asset": "highway/county_road_signpost.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "roadside_utility_pole",
+    "category": "highway",
+    "asset": "highway/roadside_utility_pole.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "blackout_traffic_signal",
+    "category": "highway",
+    "asset": "highway/blackout_traffic_signal.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "shop_door_bell",
+    "category": "station",
+    "asset": "station/shop_door_bell.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "pickup_water_jug",
+    "category": "props",
+    "asset": "props/pickup_water_jug.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "sealed_water_bottle",
+    "category": "props",
+    "asset": "props/sealed_water_bottle.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "tin_rations",
+    "category": "props",
+    "asset": "props/tin_rations.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "truck_keys",
+    "category": "props",
+    "asset": "props/truck_keys.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "open_road_atlas",
+    "category": "props",
+    "asset": "props/open_road_atlas.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "noon_note",
+    "category": "props",
+    "asset": "props/noon_note.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "clock_0712",
+    "category": "props",
+    "asset": "props/clock_0712.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "clock_1212",
+    "category": "props",
+    "asset": "props/clock_1212.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "plant_horizon_silhouette",
+    "category": "background",
+    "asset": "background/plant_horizon_silhouette.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "abandoned_tan_sedan",
+    "category": "roadside",
+    "asset": "roadside/abandoned_tan_sedan.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "abandoned_olive_wagon",
+    "category": "roadside",
+    "asset": "roadside/abandoned_olive_wagon.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "parked_delivery_van",
+    "category": "roadside",
+    "asset": "roadside/parked_delivery_van.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "unhitched_utility_trailer",
+    "category": "roadside",
+    "asset": "roadside/unhitched_utility_trailer.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "weathered_road_barrier",
+    "category": "roadside",
+    "asset": "roadside/weathered_road_barrier.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "roadwork_drum",
+    "category": "roadside",
+    "asset": "roadside/roadwork_drum.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "rural_mailbox_pair",
+    "category": "roadside",
+    "asset": "roadside/rural_mailbox_pair.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "roadside_split_rail_fence",
+    "category": "roadside",
+    "asset": "roadside/roadside_split_rail_fence.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "scattered_roadside_grass",
+    "category": "roadside",
+    "asset": "roadside/scattered_roadside_grass.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "loose_newspaper",
+    "category": "roadside",
+    "asset": "roadside/loose_newspaper.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "loose_leaf",
+    "category": "roadside",
+    "asset": "roadside/loose_leaf.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "roadside_lookout_bird",
+    "category": "roadside",
+    "asset": "roadside/roadside_lookout_bird.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "daniel_work_boot_left",
+    "category": "wardrobe",
+    "asset": "wardrobe/daniel_work_boot_left.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "daniel_work_boot_right",
+    "category": "wardrobe",
+    "asset": "wardrobe/daniel_work_boot_right.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "last_stop_shop_shell",
+    "category": "station",
+    "asset": "station/last_stop_shop_shell.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "shop_glass_door",
+    "category": "station",
+    "asset": "station/shop_glass_door.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "fuel_canopy",
+    "category": "station",
+    "asset": "station/fuel_canopy.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "dark_fuel_dispenser",
+    "category": "station",
+    "asset": "station/dark_fuel_dispenser.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "fuel_nozzle",
+    "category": "station",
+    "asset": "station/fuel_nozzle.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "pump_hose",
+    "category": "station",
+    "asset": "station/pump_hose.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "last_stop_price_sign",
+    "category": "station",
+    "asset": "station/last_stop_price_sign.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "station_checkout_counter",
+    "category": "station",
+    "asset": "station/station_checkout_counter.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "station_aisle_shelf",
+    "category": "station",
+    "asset": "station/station_aisle_shelf.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "dead_drink_cooler",
+    "category": "station",
+    "asset": "station/dead_drink_cooler.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "chest_freezer",
+    "category": "station",
+    "asset": "station/chest_freezer.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "coffee_service_station",
+    "category": "station",
+    "asset": "station/coffee_service_station.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "entry_promo_stand",
+    "category": "station",
+    "asset": "station/entry_promo_stand.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "yellow_pump_bollard",
+    "category": "station",
+    "asset": "station/yellow_pump_bollard.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "canopy_trash_station",
+    "category": "station",
+    "asset": "station/canopy_trash_station.glb",
+    "generator": "Sand3D"
+  }
+]
