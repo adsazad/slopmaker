@@ -1,0 +1,29 @@
+.venv/
+bin/
+__pycache__/
+*.py[cod]
+
+# Local credentials and settings
+.env
+.env.*
+!.env.example
+.aws/
+.codex/
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets.json
+*.local.json
+
+# Godot caches, logs, downloaded engine, and temporary captures
+.godot/
+.godot-home/
+*.log
+/tools/godot/*.exe
+/tools/godot/*.zip
+*.avi
+*.partial.mp4
+/series/late_morning/motion_review.jpg
+/series/late_morning/qwen-voice-*.wav

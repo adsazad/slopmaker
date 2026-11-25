@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Round Oak",
+    "asset": "round_oak.glb",
+    "format": "glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "Layered Pine",
+    "asset": "layered_pine.glb",
+    "format": "glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "Tropical Palm",
+    "asset": "tropical_palm.glb",
+    "format": "glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "Silver Birch",
+    "asset": "silver_birch.glb",
+    "format": "glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "Autumn Maple",
+    "asset": "autumn_maple.glb",
+    "format": "glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "Weeping Willow",
+    "asset": "weeping_willow.glb",
+    "format": "glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "Italian Cypress",
+    "asset": "italian_cypress.glb",
+    "format": "glb",
+    "generator": "Sand3D"
+  }
+]

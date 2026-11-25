@@ -1,0 +1,3 @@
+qwen-tts
+gradio
+soundfile

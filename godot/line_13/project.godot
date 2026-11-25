@@ -1,0 +1,29 @@
+; LINE 13 — vertical narrated horror short
+config_version=5
+
+[application]
+config/name="LINE 13 — 14 Old Bell Road"
+run/main_scene="res://scenes/pilot.tscn"
+config/features=PackedStringArray("4.7", "GL Compatibility")
+
+[display]
+window/size/viewport_width=720
+window/size/viewport_height=1280
+window/size/window_width_override=720
+window/size/window_height_override=1280
+window/stretch/mode="viewport"
+window/vsync/vsync_mode=0
+
+[audio]
+driver/enable_input=false
+
+[rendering]
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
+environment/defaults/default_clear_color=Color(0.015, 0.025, 0.045, 1)
+
+[editor]
+movie_writer/movie_file="res://render/line_13_pilot.ogv"
+movie_writer/fps=30
+movie_writer/video_quality=0.9
+movie_writer/audio_quality=0.45

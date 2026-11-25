@@ -1,0 +1,457 @@
+[
+  {
+    "name": "three_seat_sofa",
+    "category": "living",
+    "placement": "floor",
+    "asset": "living/three_seat_sofa.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "armchair",
+    "category": "living",
+    "placement": "floor",
+    "asset": "living/armchair.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "coffee_table",
+    "category": "living",
+    "placement": "floor",
+    "asset": "living/coffee_table.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "side_table",
+    "category": "living",
+    "placement": "floor",
+    "asset": "living/side_table.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "area_rug",
+    "category": "living",
+    "placement": "floor",
+    "asset": "living/area_rug.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "media_console",
+    "category": "living",
+    "placement": "floor",
+    "asset": "living/media_console.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "television",
+    "category": "living",
+    "placement": "surface",
+    "asset": "living/television.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "bookcase",
+    "category": "living",
+    "placement": "floor",
+    "asset": "living/bookcase.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "fireplace",
+    "category": "living",
+    "placement": "floor",
+    "asset": "living/fireplace.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "single_bed",
+    "category": "bedroom",
+    "placement": "floor",
+    "asset": "bedroom/single_bed.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "double_bed",
+    "category": "bedroom",
+    "placement": "floor",
+    "asset": "bedroom/double_bed.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "nightstand",
+    "category": "bedroom",
+    "placement": "floor",
+    "asset": "bedroom/nightstand.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "dresser",
+    "category": "bedroom",
+    "placement": "floor",
+    "asset": "bedroom/dresser.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "wardrobe",
+    "category": "bedroom",
+    "placement": "floor",
+    "asset": "bedroom/wardrobe.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "laundry_hamper",
+    "category": "bedroom",
+    "placement": "floor",
+    "asset": "bedroom/laundry_hamper.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "dining_table",
+    "category": "kitchen",
+    "placement": "floor",
+    "asset": "kitchen/dining_table.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "dining_chair",
+    "category": "kitchen",
+    "placement": "floor",
+    "asset": "kitchen/dining_chair.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "bar_stool",
+    "category": "kitchen",
+    "placement": "floor",
+    "asset": "kitchen/bar_stool.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "base_cabinet",
+    "category": "kitchen",
+    "placement": "floor",
+    "asset": "kitchen/base_cabinet.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "wall_cabinet",
+    "category": "kitchen",
+    "placement": "wall",
+    "asset": "kitchen/wall_cabinet.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "kitchen_sink",
+    "category": "kitchen",
+    "placement": "floor",
+    "asset": "kitchen/kitchen_sink.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "refrigerator",
+    "category": "kitchen",
+    "placement": "floor",
+    "asset": "kitchen/refrigerator.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "range_oven",
+    "category": "kitchen",
+    "placement": "floor",
+    "asset": "kitchen/range_oven.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "microwave",
+    "category": "kitchen",
+    "placement": "surface",
+    "asset": "kitchen/microwave.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "dishwasher",
+    "category": "kitchen",
+    "placement": "floor",
+    "asset": "kitchen/dishwasher.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "dish_set",
+    "category": "kitchen",
+    "placement": "surface",
+    "asset": "kitchen/dish_set.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "stockpot",
+    "category": "kitchen",
+    "placement": "surface",
+    "asset": "kitchen/stockpot.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "cutting_board",
+    "category": "kitchen",
+    "placement": "surface",
+    "asset": "kitchen/cutting_board.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "bathroom_vanity",
+    "category": "bathroom",
+    "placement": "floor",
+    "asset": "bathroom/bathroom_vanity.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "toilet",
+    "category": "bathroom",
+    "placement": "floor",
+    "asset": "bathroom/toilet.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "bathtub",
+    "category": "bathroom",
+    "placement": "floor",
+    "asset": "bathroom/bathtub.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "shower_stall",
+    "category": "bathroom",
+    "placement": "floor",
+    "asset": "bathroom/shower_stall.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "bath_mat",
+    "category": "bathroom",
+    "placement": "floor",
+    "asset": "bathroom/bath_mat.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "mirror",
+    "category": "bathroom",
+    "placement": "wall",
+    "asset": "bathroom/mirror.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "towel_rack",
+    "category": "bathroom",
+    "placement": "wall",
+    "asset": "bathroom/towel_rack.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "writing_desk",
+    "category": "office",
+    "placement": "floor",
+    "asset": "office/writing_desk.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "desk_chair",
+    "category": "office",
+    "placement": "floor",
+    "asset": "office/desk_chair.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "filing_cabinet",
+    "category": "office",
+    "placement": "floor",
+    "asset": "office/filing_cabinet.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "laptop",
+    "category": "office",
+    "placement": "surface",
+    "asset": "office/laptop.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "washing_machine",
+    "category": "utility",
+    "placement": "floor",
+    "asset": "utility/washing_machine.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "tumble_dryer",
+    "category": "utility",
+    "placement": "floor",
+    "asset": "utility/tumble_dryer.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "storage_shelving",
+    "category": "utility",
+    "placement": "floor",
+    "asset": "utility/storage_shelving.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "storage_box",
+    "category": "utility",
+    "placement": "surface",
+    "asset": "utility/storage_box.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "wastebasket",
+    "category": "utility",
+    "placement": "floor",
+    "asset": "utility/wastebasket.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "floor_lamp",
+    "category": "lighting",
+    "placement": "floor",
+    "asset": "lighting/floor_lamp.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "table_lamp",
+    "category": "lighting",
+    "placement": "surface",
+    "asset": "lighting/table_lamp.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "ceiling_pendant",
+    "category": "lighting",
+    "placement": "ceiling",
+    "asset": "lighting/ceiling_pendant.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "wall_sconce",
+    "category": "lighting",
+    "placement": "wall",
+    "asset": "lighting/wall_sconce.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "potted_plant",
+    "category": "decor",
+    "placement": "floor",
+    "asset": "decor/potted_plant.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "book_stack",
+    "category": "decor",
+    "placement": "surface",
+    "asset": "decor/book_stack.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "framed_print",
+    "category": "decor",
+    "placement": "wall",
+    "asset": "decor/framed_print.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "wall_clock",
+    "category": "decor",
+    "placement": "wall",
+    "asset": "decor/wall_clock.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "curtain_pair",
+    "category": "decor",
+    "placement": "wall",
+    "asset": "decor/curtain_pair.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "interior_door",
+    "category": "architecture",
+    "placement": "floor",
+    "asset": "architecture/interior_door.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "double_hung_window",
+    "category": "architecture",
+    "placement": "wall",
+    "asset": "architecture/double_hung_window.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "power_outlet",
+    "category": "architecture",
+    "placement": "wall",
+    "asset": "architecture/power_outlet.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "light_switch",
+    "category": "architecture",
+    "placement": "wall",
+    "asset": "architecture/light_switch.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "baseboard",
+    "category": "architecture",
+    "placement": "wall",
+    "asset": "architecture/baseboard.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "wall_panel",
+    "category": "architecture",
+    "placement": "floor",
+    "asset": "architecture/wall_panel.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "plank_floor_tile",
+    "category": "architecture",
+    "placement": "floor",
+    "asset": "architecture/plank_floor_tile.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "ceiling_panel",
+    "category": "architecture",
+    "placement": "ceiling",
+    "asset": "architecture/ceiling_panel.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "shoe_bench",
+    "category": "entryway",
+    "placement": "floor",
+    "asset": "entryway/shoe_bench.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "coat_hooks",
+    "category": "entryway",
+    "placement": "wall",
+    "asset": "entryway/coat_hooks.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "entry_mat",
+    "category": "entryway",
+    "placement": "floor",
+    "asset": "entryway/entry_mat.glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "floating_shelf",
+    "category": "decor",
+    "placement": "wall",
+    "asset": "decor/floating_shelf.glb",
+    "generator": "Sand3D"
+  }
+]

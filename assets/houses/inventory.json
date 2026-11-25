@@ -1,0 +1,68 @@
+[
+  {
+    "name": "blue_family_bungalow",
+    "asset": "blue_family_bungalow.glb",
+    "format": "glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "white_colonial",
+    "asset": "white_colonial.glb",
+    "format": "glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "sage_rental_bungalow",
+    "asset": "sage_rental_bungalow.glb",
+    "format": "glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "craftsman_cottage",
+    "asset": "craftsman_cottage.glb",
+    "format": "glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "brick_rowhouse",
+    "asset": "brick_rowhouse.glb",
+    "format": "glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "alpine_a_frame",
+    "asset": "alpine_a_frame.glb",
+    "format": "glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "bay_window_house",
+    "asset": "bay_window_house.glb",
+    "format": "glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "ochre_townhouse",
+    "asset": "ochre_townhouse.glb",
+    "format": "glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "red_gable_house",
+    "asset": "red_gable_house.glb",
+    "format": "glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "corner_grocery",
+    "asset": "corner_grocery.glb",
+    "format": "glb",
+    "generator": "Sand3D"
+  },
+  {
+    "name": "brick_walkup",
+    "asset": "brick_walkup.glb",
+    "format": "glb",
+    "generator": "Sand3D"
+  }
+]

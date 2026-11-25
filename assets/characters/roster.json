@@ -1,0 +1,106 @@
+[
+  {
+    "sequence": 1,
+    "id": "milo_rookie",
+    "name": "Milo the Rookie Builder",
+    "role": "first friend and starter builder",
+    "asset": "milo_rookie.glb",
+    "format": "glb"
+  },
+  {
+    "sequence": 2,
+    "id": "rhea_star_scout",
+    "name": "Rhea Star Scout",
+    "role": "curious trailblazer",
+    "asset": "roster/rhea_star_scout.glb",
+    "format": "glb"
+  },
+  {
+    "sequence": 3,
+    "id": "fern_garden_ranger",
+    "name": "Fern Garden Ranger",
+    "role": "keeper of the wild paths",
+    "asset": "roster/fern_garden_ranger.glb",
+    "format": "glb"
+  },
+  {
+    "sequence": 4,
+    "id": "jax_street_skater",
+    "name": "Jax Street Skater",
+    "role": "bold shortcut finder",
+    "asset": "roster/jax_street_skater.glb",
+    "format": "glb"
+  },
+  {
+    "sequence": 5,
+    "id": "bolt_speed_runner",
+    "name": "Bolt Speed Runner",
+    "role": "first to every finish line",
+    "asset": "roster/bolt_speed_runner.glb",
+    "format": "glb"
+  },
+  {
+    "sequence": 6,
+    "id": "byte_arcade_runner",
+    "name": "Byte Arcade Runner",
+    "role": "arcade tinkerer",
+    "asset": "roster/byte_arcade_runner.glb",
+    "format": "glb"
+  },
+  {
+    "sequence": 7,
+    "id": "coral_captain",
+    "name": "Coral Captain",
+    "role": "cheerful map-reader",
+    "asset": "roster/coral_captain.glb",
+    "format": "glb"
+  },
+  {
+    "sequence": 8,
+    "id": "mira_wave_rider",
+    "name": "Mira Wave Rider",
+    "role": "sunny shoreline explorer",
+    "asset": "roster/mira_wave_rider.glb",
+    "format": "glb"
+  },
+  {
+    "sequence": 9,
+    "id": "tavi_frost_explorer",
+    "name": "Tavi Frost Explorer",
+    "role": "patient mountain guide",
+    "asset": "roster/tavi_frost_explorer.glb",
+    "format": "glb"
+  },
+  {
+    "sequence": 10,
+    "id": "rex_dino_defender",
+    "name": "Rex Dino Defender",
+    "role": "courageous little guardian",
+    "asset": "roster/rex_dino_defender.glb",
+    "format": "glb"
+  },
+  {
+    "sequence": 11,
+    "id": "luna_moon_mage",
+    "name": "Luna Moon Mage",
+    "role": "gentle spell-caster",
+    "asset": "roster/luna_moon_mage.glb",
+    "format": "glb"
+  },
+  {
+    "sequence": 12,
+    "id": "echo_music_maker",
+    "name": "Echo Music Maker",
+    "role": "inventor of catchy tunes",
+    "asset": "roster/echo_music_maker.glb",
+    "format": "glb"
+  },
+  {
+    "sequence": 13,
+    "id": "atlas_space_mechanic",
+    "name": "Atlas Space Mechanic",
+    "role": "fixer of curious machines",
+    "asset": "roster/atlas_space_mechanic.glb",
+    "format": "glb"
+  }
+]
