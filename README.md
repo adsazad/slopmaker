@@ -1,6 +1,6 @@
 # Slopmaker — AI-Assisted 3D Storytelling and Animation Studio
 
-Slopmaker is a personal creative-production workspace for making short, narrated 3D stories. It brings together story writing, AI voice generation, reusable low-poly assets, Godot scene building, preview tools, and video-rendering workflows.
+Slopmaker is a completely agentic creative-production workspace for making short, narrated 3D stories. It brings together AI-assisted story writing, voice generation, reusable low-poly assets, Godot scene building, preview tools, and video-rendering workflows in an iterative agent-led production process.
 
 The repository currently contains two narrative projects: **Late Morning**, a post-apocalyptic vertical short series, and **LINE 13**, a narrated horror pilot. It also includes **Qwen Voice Studio**, a local text-to-speech app used to create and revise voice tracks for those projects, along with character, environment, interior, and prop libraries.
 
