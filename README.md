@@ -1,6 +1,6 @@
 # Slopmaker — AI-Assisted 3D Storytelling and Animation Studio
 
-Slopmaker is a completely agentic creative-production workspace for making short, narrated 3D stories. It brings together AI-assisted story writing, voice generation, reusable low-poly assets, Godot scene building, preview tools, and video-rendering workflows in an iterative agent-led production process.
+Slopmaker is a completely agentic creative-production workspace built with Codex for making short, narrated 3D stories. It brings together AI-assisted story writing, voice generation, reusable low-poly assets, Godot scene building, preview tools, and video-rendering workflows in an iterative agent-led production process. Audio was created with Qwen voice generation, including runs on Kaggle T4 GPUs.
 
 The repository currently contains two narrative projects: **Late Morning**, a post-apocalyptic vertical short series, and **LINE 13**, a narrated horror pilot. It also includes **Qwen Voice Studio**, a local text-to-speech app used to create and revise voice tracks for those projects, along with character, environment, interior, and prop libraries.
 
@@ -44,7 +44,7 @@ Use the README files within `assets/` for model inventories, scale/orientation n
 The typical production loop is:
 
 1. Draft or revise the story and narration in `story/` and the episode’s `narration.txt`.
-2. Generate voice takes in Qwen Voice Studio, then save the chosen WAV and any timing or subtitle cues in the relevant project folder.
+2. Generate voice takes in Qwen Voice Studio, including Qwen runs on Kaggle T4 GPUs, then save the chosen WAV and any timing or subtitle cues in the relevant project folder.
 3. Build or adjust models and sets with the scripts in `assets/`, or arrange shots and animation in the episode’s Godot project.
 4. Run the project’s live preview, review pacing, visuals, and sound, and make targeted revisions.
 5. Capture the Godot sequence and use the episode’s audio/mix script and FFmpeg workflow to produce the vertical video export.
