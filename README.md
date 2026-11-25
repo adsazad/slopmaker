@@ -10,7 +10,7 @@ The repository currently contains two narrative projects: **Late Morning**, a po
 
 ### Qwen Voice Studio
 
-A password-protected Gradio interface for generating speech with the Qwen3-TTS CustomVoice model. Write or paste narration, choose a supported speaker and language, add optional delivery direction, listen to the result, and download a WAV file. It runs inference on the local computer, using an available NVIDIA GPU or falling back to CPU.
+A password-protected Gradio interface for generating speech with the Qwen3-TTS CustomVoice model. The voice workflow evolved from an earlier Kokoro ONNX studio prototype to Qwen3-TTS. Write or paste narration, choose a supported speaker and language, add optional delivery direction, listen to the result, and download a WAV file. It runs inference on the local computer, using an available NVIDIA GPU or falling back to CPU. Qwen3-TTS audio has also been generated in Kaggle notebook sessions on T4 GPUs.
 
 The Windows launcher can optionally expose the local studio through a temporary Cloudflare Quick Tunnel. This has been useful for generating narration from another device and sharing a short-lived interface while a production session is running.
 
